@@ -1,0 +1,324 @@
+[{
+  "_id": {
+    "$oid": "6924989047cce7e7b929ba1d"
+  },
+  "name": "React Basics",
+  "price": 200,
+  "topics": [
+    "JSX",
+    "Components",
+    "State & Props"
+  ],
+  "instructor": "Tamar Cohen",
+  "date": {
+    "$date": "2025-12-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6924989047cce7e7b929ba1e"
+  },
+  "name": "Node.js Fundamentals",
+  "price": 250,
+  "topics": [
+    "Modules",
+    "Express",
+    "File System"
+  ],
+  "instructor": "David Levy",
+  "date": {
+    "$date": "2025-12-03T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6924989047cce7e7b929ba1f"
+  },
+  "name": "Advanced MongoDB",
+  "price": 300,
+  "topics": [
+    "Aggregation",
+    "Indexes",
+    "Replication"
+  ],
+  "instructor": "Tamar Cohen",
+  "date": {
+    "$date": "2025-12-05T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6924989047cce7e7b929ba20"
+  },
+  "name": "Angular Basics",
+  "price": 220,
+  "topics": [
+    "Components",
+    "Modules",
+    "Services"
+  ],
+  "instructor": "David Levy",
+  "date": {
+    "$date": "2025-12-07T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6924989047cce7e7b929ba21"
+  },
+  "name": "Vue.js Fundamentals",
+  "price": 210,
+  "topics": [
+    "Vue Instance",
+    "Directives",
+    "Components"
+  ],
+  "instructor": "Tamar Cohen",
+  "date": {
+    "$date": "2025-12-09T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6924989047cce7e7b929ba22"
+  },
+  "name": "Python Basics",
+  "price": 180,
+  "topics": [
+    "Syntax",
+    "Variables",
+    "Loops"
+  ],
+  "instructor": "David Levy",
+  "date": {
+    "$date": "2025-12-11T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6924989047cce7e7b929ba23"
+  },
+  "name": "Django Web Development",
+  "price": 320,
+  "topics": [
+    "Models",
+    "Views",
+    "Templates"
+  ],
+  "instructor": "Tamar Cohen",
+  "date": {
+    "$date": "2025-12-13T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6924989047cce7e7b929ba24"
+  },
+  "name": "C# Fundamentals",
+  "price": 230,
+  "topics": [
+    "Variables",
+    "OOP",
+    "LINQ"
+  ],
+  "instructor": "David Levy",
+  "date": {
+    "$date": "2025-12-15T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6924989047cce7e7b929ba25"
+  },
+  "name": "ASP.NET Core",
+  "price": 350,
+  "topics": [
+    "MVC",
+    "Dependency Injection",
+    "API Development"
+  ],
+  "instructor": "Tamar Cohen",
+  "date": {
+    "$date": "2025-12-17T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6924989047cce7e7b929ba26"
+  },
+  "name": "Fullstack Project",
+  "price": 400,
+  "topics": [
+    "Frontend",
+    "Backend",
+    "Database Integration"
+  ],
+  "instructor": "David Levy",
+  "date": {
+    "$date": "2025-12-19T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69249a3e47cce7e7b929ba28"
+  },
+  "name": "React Advanced",
+  "price": 300,
+  "topics": [
+    "JSX",
+    "Components",
+    "State & Props"
+  ],
+  "instructor": "Tamar Cohen",
+  "date": {
+    "$date": "2025-12-21T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69249a3e47cce7e7b929ba29"
+  },
+  "name": "Node.js Advanced",
+  "price": 320,
+  "topics": [
+    "Modules",
+    "Express",
+    "File System"
+  ],
+  "instructor": "David Levy",
+  "date": {
+    "$date": "2025-12-23T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69249a3e47cce7e7b929ba2a"
+  },
+  "name": "Fullstack React + Node",
+  "price": 400,
+  "topics": [
+    "JSX",
+    "Components",
+    "Express",
+    "State & Props"
+  ],
+  "instructor": "Tamar Cohen",
+  "date": {
+    "$date": "2025-12-25T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69249a3e47cce7e7b929ba2b"
+  },
+  "name": "Angular Advanced",
+  "price": 270,
+  "topics": [
+    "Components",
+    "Modules",
+    "Services"
+  ],
+  "instructor": "David Levy",
+  "date": {
+    "$date": "2025-12-27T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69249a3e47cce7e7b929ba2c"
+  },
+  "name": "Vue.js Advanced",
+  "price": 260,
+  "topics": [
+    "Components",
+    "Directives",
+    "Vue Instance"
+  ],
+  "instructor": "Tamar Cohen",
+  "date": {
+    "$date": "2025-12-29T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69249a3e47cce7e7b929ba2d"
+  },
+  "name": "Python Advanced",
+  "price": 280,
+  "topics": [
+    "Variables",
+    "Loops",
+    "OOP"
+  ],
+  "instructor": "David Levy",
+  "date": {
+    "$date": "2026-01-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69249a3e47cce7e7b929ba2e"
+  },
+  "name": "Django Advanced",
+  "price": 350,
+  "topics": [
+    "Models",
+    "Views",
+    "Templates",
+    "OOP"
+  ],
+  "instructor": "Tamar Cohen",
+  "date": {
+    "$date": "2026-01-03T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69249a3e47cce7e7b929ba2f"
+  },
+  "name": "C# Advanced",
+  "price": 300,
+  "topics": [
+    "Variables",
+    "OOP",
+    "LINQ"
+  ],
+  "instructor": "David Levy",
+  "date": {
+    "$date": "2026-01-05T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69249a3e47cce7e7b929ba30"
+  },
+  "name": "ASP.NET Advanced",
+  "price": 370,
+  "topics": [
+    "MVC",
+    "Dependency Injection",
+    "API Development",
+    "OOP"
+  ],
+  "instructor": "Tamar Cohen",
+  "date": {
+    "$date": "2026-01-07T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69249a3e47cce7e7b929ba31"
+  },
+  "name": "Fullstack Project Advanced",
+  "price": 450,
+  "topics": [
+    "Frontend",
+    "Backend",
+    "Database Integration",
+    "Components"
+  ],
+  "instructor": "David Levy",
+  "date": {
+    "$date": "2026-01-09T10:00:00.000Z"
+  }
+}]
